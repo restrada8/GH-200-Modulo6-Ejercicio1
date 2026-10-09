@@ -1,0 +1,27 @@
+{
+  "name": "gh-200-modulo6-ejercicio1",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restrada8/GH-200-Modulo6-Ejercicio1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/restrada8/GH-200-Modulo6-Ejercicio1/issues"
+  },
+  "homepage": "https://github.com/restrada8/GH-200-Modulo6-Ejercicio1#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.1",
+    "@vercel/ncc": "^0.45.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
